@@ -6,7 +6,7 @@ This is a project for the Code Magazine, a magazine that talks about programming
 
 ![Behance](./hero.png)
 
-Click [here]() and Read this blog.
+Click [here](https://blog-post-rajeev.netlify.app/) and Read this blog.
 
 ## Tech Stack
 
@@ -22,6 +22,6 @@ Click [here]() and Read this blog.
 
 ## Useful Links
 
-- [Project Demo]() for Web version
+- [Project Demo](https://blog-post-rajeev.netlify.app/) for Web version
 
-- [Project Repository]()
+- [Project Repository](https://github.com/Rajeevjewar/Blog-Post.git)

@@ -1,4 +1,4 @@
-<h1 align="center">📘 THE CODE MAGAZINE</h1>
+<h1 align="center">📘 THE CODE MAGAZINE 📔</h1>
 
 This is a project for the Code Magazine, a magazine that talks about programming and technology.
 
@@ -6,17 +6,29 @@ This is a project for the Code Magazine, a magazine that talks about programming
 
 Click [here](https://blog-post-rajeev.netlify.app/) and Read this blog.
 
-## Tech Stack
+## Tech stack
+
+#### Frontend
 
 - HTML
-
 - CSS
-
-- CSS Flexbox
-
-- CSS Grid
-
+- JavaScript
 - Markdown
+- DOM
+
+#### Other Tools
+
+- VS Code
+- Prettier
+- Netlify
+- Git
+
+## Points to remember while testing the WebApp
+
+1. First of all fork this [Repository](https://github.com/Rajeevjewar/Blog-Post.git) and clone it.
+2. Drag the project into VS Code.
+3. Click to the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and run the `index.html` file.
+4. The app is now running, Now you can test the Website.
 
 ## Useful Links
 
@@ -33,5 +45,3 @@ Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [Lin
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
-
-<p align = "center">Show some ❤️&nbsp; by giving the star to this repo</p>
